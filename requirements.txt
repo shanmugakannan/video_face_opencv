@@ -1,1 +1,2 @@
+git+git://github.com/pypa/setuptools.git
 git+git://github.com/Itseez/opencv.git
