@@ -1,1 +1,1 @@
-git+git://github.com/Itseez/opencv.git
+./pyopencv-2.1.0.wr1.2.0.tar.gz
