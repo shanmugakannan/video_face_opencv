@@ -1,1 +1,1 @@
-cv2
+git+git://github.com/graingert/pyopencv.git
