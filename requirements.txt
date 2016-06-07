@@ -1,1 +1,1 @@
-pyopencv
+cv2
