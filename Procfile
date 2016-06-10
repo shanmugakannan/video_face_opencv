@@ -1,1 +1,1 @@
-web: python face.py
+web: python face.py ${PORT}
